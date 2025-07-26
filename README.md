@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋 I am Neha
 
-<!--
-**nehamarlady/nehamarlady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS Grad Student | 💻 Aspiring Software Engineer  
+🌱 Learning AI/ML | Building real-world projects  
 
-Here are some ideas to get you started:
+## ✨ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on: AI-powered healthcare assistant  
+- 📚 Learning: Python, ML, System Design  
+- 📫 Reach me: nehamarlady@gmail.com  
+
+## 🛠️ Skills
+
+- Programming: Python, Java, HTML, CSS, JavaScript  
+- Tools: VS Code, Git, GitHub, Linux  
+- Interests: AI, Web Dev, Game Dev
