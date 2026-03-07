@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [Neha]
+# Hi there!! I'm Neha
 
 🎓 MS Computer Science Student at Portland State University  
 💻 Software Engineer with 3+ years of experience  
