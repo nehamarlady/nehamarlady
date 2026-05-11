@@ -55,7 +55,7 @@ Some of the things I have worked on include:
 ## 📫 Let's Connect
 
 - LinkedIn: https://www.linkedin.com/in/nehamarlady/
-- Email: nehamarlady@gmail.com
+- Email: nehamarladycs@gmail.com
 
 I’m always open to **collaboration, learning, and new opportunities**.
 
